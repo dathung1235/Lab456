@@ -96,5 +96,6 @@ namespace HuynhDatHung_Lab456.Migrations
             DropTable("dbo.AspNetRoles");
         }
     }
+
 }
 
