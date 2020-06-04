@@ -109,4 +109,5 @@ namespace HuynhDatHung_Lab456.Models
         [Display(Name = "Email")]
         public string Email { get; set; }
     }
+
 }

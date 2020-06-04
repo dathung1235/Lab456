@@ -13,4 +13,5 @@ namespace HuynhDatHung_Lab456.Models
         [StringLength(255)]
         public string Name { get; set; }
     }
+
 }

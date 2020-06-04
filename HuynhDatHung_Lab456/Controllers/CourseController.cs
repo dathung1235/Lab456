@@ -40,5 +40,6 @@ namespace HuynhDatHung_Lab456.Controllers
             _dbContext.SaveChanges();
             return RedirectToAction("Index", "Home");
         }
-    }
+    } 
+
 }

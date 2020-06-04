@@ -32,4 +32,5 @@ namespace HuynhDatHung_Lab456.Models
             return new ApplicationDbContext();
         }
     }
+
 }

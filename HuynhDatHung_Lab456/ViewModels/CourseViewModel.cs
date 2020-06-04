@@ -18,4 +18,5 @@ namespace HuynhDatHung_Lab456.ViewModels
             return DateTime.Parse(string.Format("{0} {1}", Date, Time));
         }
     }
+
 }
