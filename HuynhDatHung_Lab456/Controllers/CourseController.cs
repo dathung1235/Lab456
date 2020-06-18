@@ -15,7 +15,7 @@ namespace HuynhDatHung_Lab456.Controllers
 
         public CourseController()
         {
-            _dbContext = new ApplicationDbContext(); 
+            _dbContext = new ApplicationDbContext();  
         }
         // GET: Courses
         [Authorize]

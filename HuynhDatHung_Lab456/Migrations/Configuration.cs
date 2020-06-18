@@ -11,7 +11,7 @@ namespace HuynhDatHung_Lab456.Migrations
         {
             AutomaticMigrationsEnabled = false;
         }
-         
+          
         protected override void Seed(HuynhDatHung_Lab456.Models.ApplicationDbContext context)
         {
             //  This method will be called after migrating to the latest version.
