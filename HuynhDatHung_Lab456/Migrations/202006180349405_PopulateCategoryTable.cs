@@ -7,6 +7,7 @@ namespace HuynhDatHung_Lab456.Migrations
     {
         public override void Up()
         {
+
         }
         
         public override void Down()
