@@ -1,0 +1,38 @@
+﻿@model IEnumerable<HuynhDatHung_Lab456.Models.Courses>
+
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="row">
+    <ul>
+        @foreach(var course in Model)
+        {
+
+            <li>
+
+
+                @course.DateTime - @course.Lecturer.Name 
+
+
+
+
+            </li>
+
+
+
+        }
+
+
+
+
+
+    </ul>
+
+
+
+
+
+
+</div>
