@@ -10,7 +10,7 @@ namespace HuynhDatHung_Lab456.ViewModels
     public class FutureDate:ValidationAttribute
     {
         public override bool IsValid(object value)
-        {
+        { 
             DateTime dateTime;
             var isValid = DateTime.TryParseExact(Convert.ToString(value),
                 "dd/M/yyyy",

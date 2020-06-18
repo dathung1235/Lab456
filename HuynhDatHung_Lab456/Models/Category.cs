@@ -12,7 +12,7 @@ namespace HuynhDatHung_Lab456.Models
         [Required]
         [StringLength(255)]
         public string Name { get; set; }
-    }
+    } 
 
 
 

@@ -13,7 +13,7 @@ namespace HuynhDatHung_Lab456.ViewModels
 
 
         [Required]
-        [FutureDate]
+        [FutureDate] 
         public string Date { get; set; }
         [Required]
         [ValidTime]

@@ -11,7 +11,7 @@ namespace HuynhDatHung_Lab456.Models
     public class ApplicationUser : IdentityUser
      
     {
-
+         
 
 
         [Required]

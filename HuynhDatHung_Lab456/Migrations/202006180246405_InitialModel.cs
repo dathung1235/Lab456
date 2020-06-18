@@ -13,7 +13,7 @@ namespace HuynhDatHung_Lab456.Migrations
                     {
                         Id = c.Byte(nullable: false),
                         Name = c.String(nullable: false, maxLength: 255),
-                    })
+                    }) 
                 .PrimaryKey(t => t.Id);
             
             CreateTable(

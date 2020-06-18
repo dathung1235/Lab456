@@ -15,7 +15,7 @@ namespace HuynhDatHung_Lab456.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
-
+         
         public ManageController()
         {
         }

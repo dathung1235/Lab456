@@ -16,7 +16,7 @@ namespace HuynhDatHung_Lab456.Controllers
         {
 
 
-            return View();
+            return View(); 
         }
 
         public ActionResult About()
